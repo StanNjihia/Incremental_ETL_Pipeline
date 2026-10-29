@@ -1,0 +1,29 @@
+2026-10-29 11:16:59 INFO  Run started
+2026-10-29 11:16:59 INFO  Existing rows loaded: 20
+2026-10-29 11:16:59 INFO  No checkpoint found - starting fresh
+2026-10-29 11:16:59 INFO  Batch BATCH-2026-10-21-01: 17 records read
+2026-10-29 11:16:59 INFO  Stale record MP-50012 ignored: incoming updated_at 2026-10-20T13:00:00 is not newer than stored 2026-10-20T14:45:00
+2026-10-29 11:16:59 INFO  New: 6 | Updated: 3 | Duplicates: 5 | Invalid: 3
+2026-10-29 11:16:59 WARNING Invalid record MP-50023: amount_kes '3,450.00' is text, not a number
+2026-10-29 11:16:59 WARNING Invalid record #10: transaction_id is missing
+2026-10-29 11:16:59 WARNING Invalid record MP-50026: amount_kes -350.00 is not positive
+2026-10-29 11:16:59 INFO  Rows after load: 26
+2026-10-29 11:16:59 INFO  Run finished in 0.01s
+2026-10-29 11:16:59 INFO  Run started
+2026-10-29 11:16:59 INFO  Existing rows loaded: 26
+2026-10-29 11:16:59 INFO  Batch BATCH-2026-10-21-01 already processed - skipping
+2026-10-29 11:16:59 INFO  New: 0 | Updated: 0 | Duplicates: 0 | Invalid: 0
+2026-10-29 11:16:59 INFO  Rows after load: 26
+2026-10-29 11:16:59 INFO  Run finished in 0.01s
+2026-10-29 11:28:24 INFO  Run started
+2026-10-29 11:28:24 INFO  Existing rows loaded: 26
+2026-10-29 11:28:24 INFO  Batch BATCH-2026-10-21-01 already processed - skipping
+2026-10-29 11:28:24 INFO  New: 0 | Updated: 0 | Duplicates: 0 | Invalid: 0
+2026-10-29 11:28:24 INFO  Rows after load: 26
+2026-10-29 11:28:24 INFO  Run finished in 0.00s
+2026-10-29 11:28:29 INFO  Run started
+2026-10-29 11:28:29 INFO  Existing rows loaded: 26
+2026-10-29 11:28:29 INFO  Batch BATCH-2026-10-21-01 already processed - skipping
+2026-10-29 11:28:29 INFO  New: 0 | Updated: 0 | Duplicates: 0 | Invalid: 0
+2026-10-29 11:28:29 INFO  Rows after load: 26
+2026-10-29 11:28:29 INFO  Run finished in 0.00s

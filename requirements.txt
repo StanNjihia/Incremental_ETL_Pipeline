@@ -1,0 +1,2 @@
+# No third-party packages: incremental_etl.py uses only the Python standard library
+# (csv, json, logging, os, sys, time, datetime, decimal, pathlib). Python 3.10 or newer.
